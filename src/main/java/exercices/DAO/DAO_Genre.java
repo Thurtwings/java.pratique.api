@@ -1,0 +1,8 @@
+package exercices.DAO;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface DAO_Genre extends JpaRepository
+{
+
+}
